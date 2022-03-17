@@ -8,6 +8,12 @@
 
 ----------------------------------------------------------------------------------------------------------------
 
+Description:
+A fun game developed in Assembly x86. The goal is to avoid incoming asteroids by moving up or down. There are 3
+different difficulty levels with their own separate highscore.
+
+----------------------------------------------------------------------------------------------------------------
+
 Requirements:
  - A (virtual machine) Linux environment; This game does not work on WSL or other windows subsystems!
  - A lot of free time as you will definitely enjoy this game
